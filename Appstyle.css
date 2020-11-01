@@ -1,0 +1,40 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+ html,body{
+ 	font-size: 20px
+ 	background-color: #E5E5E5 ;
+ }
+ .container{
+ 	width:80%;
+ 	height: 60vh;
+ 	margin: 100px auto;
+ }
+ h3{
+ 	margin: 40px;
+
+}
+.first{
+	margin: 0;
+
+}
+.number{
+	width: 80%;
+	margin: 20px auto;
+	padding: 10px;
+
+}
+.answer{
+	cursor: pointer;
+	width: 30%;
+	padding: 10px;
+	margin: 20px auto;
+	color: red;
+
+
+}
+.answer:hover{
+	background-color: #000;
+}
