@@ -1,2 +1,1 @@
 # SalaryCalculator
-Salary Calcultor App
